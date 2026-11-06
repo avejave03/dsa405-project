@@ -1,5 +1,4 @@
 # dsa405-project
-# dsa405-project
 
 **DSA 405 · Fall 2026 · Avery Atkinson (alatkin3)**
 
